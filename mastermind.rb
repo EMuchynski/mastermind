@@ -80,6 +80,7 @@ end
         exit
       else
         puts "|GG, have a nice day!                                |"
+        puts "-----------------------------------------------------|"
         exit
       end
     end
